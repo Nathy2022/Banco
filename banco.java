@@ -1,7 +1,7 @@
 public class banco  {
 
     String titular ;
-    String conta ;
+    String conta;
 
     public static void encontrar_conta(int numero) {
         System.out.println(numero);
