@@ -1,13 +1,13 @@
 public class banco  {
 
-    String nome = "nathalia";
-    String conta = "n";
+    String titular ;
+    String conta ;
 
-    public static void entrar_conta(int nu) {
-        System.out.println(nu);
+    public static void encontrar_conta(int numero) {
+        System.out.println(numero);
         
     }
-    public static void criar_conta(String nome, double saldo) {
+    public static void criar_conta(String titular, double saldo_inicial) {
 
         
     }
